@@ -1,0 +1,40 @@
+1: Criar arquivos de folhas de estilos externas.
+2: Compressão de arquivos (css, html e javascript), otimização de imagens, e uso de sprites.
+3: Pagespeed insights e pingdom tools.
+4: <!DOCTYPE html>
+	<html lang="en">
+      <head>
+			    <title></title>
+			    <meta charset="UTF-8">
+	    </head>
+	    <body></body>
+	</html>
+  5: - Get envia uma string anexada a url.
+- Não pode conter mais de 255 caracteres.
+- É mais rápida pelo fato de ser mais simples em relação ao método post.
+
+- Post encapsula os dados na requisição permitindo que os dados não sejam visualizados.
+- Não há limitação de caracteres.
+- Tem uma perda de performance em relação ao encapsulamento dos dados.
+6: display: block 
+display: inline
+display: inline-block
+display: flex
+display: inline-flex
+display: grid
+display: none
+display: table
+display: table-cell
+display: table-column
+display: table-row
+display: inherit
+7: A diferença e que no display: inline não pode ser definido altura (height) e largura (width), 
+ocupando sempre o espaço necessário para exibição do elemento HTML. Enquanto no display inline-block é possível definir os respectivos atributos.
+8: Position Static é o valor padrão para todos os navegadores significa que, o elemento segue o fluxo da página.
+Position Relative se alinha relativamente à sua posição é utiliza os atributos top, right, bottom e left.
+Position Absolute permite que você posicione um elemento HTML em qualquer parte, utilizando os atributos top, right, bottom e left.
+Position Fixed seu posicionamento é definido em relação ao Viewport.
+9: A diferença está no parâmetros. 
+Aplly invoca uma função com o this e um array com os parâmetros da função.
+Call utliza como primeiro parâmetro o this e os outros são parâmetros da função.
+10: A diferença é que == compara os valores e === além dos valores compara o tipo da variável.
